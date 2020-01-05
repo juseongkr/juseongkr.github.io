@@ -112,6 +112,8 @@ author:
   bio              : "Hello World!"
   location         : "Seoul, Republic of Korea"
   email            : "juseongkr@gmail.com"
+  linkedin         : "juseongkr"
+  github           : "juseongkr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
