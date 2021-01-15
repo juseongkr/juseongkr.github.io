@@ -5,10 +5,10 @@ categories: utils
 ---
 
 ### GPG: The GNU Privacy Guard
-https://gnupg.org/
+<https://gnupg.org>
 
 ### Pass: the standard unix password manager
-https://www.passwordstore.org
+<https://www.passwordstore.org>
 
 ## Contents
 - [GPG](#gpg)
